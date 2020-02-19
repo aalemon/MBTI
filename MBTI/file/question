@@ -1,0 +1,969 @@
+[
+{  num:1,
+	title:"当你要外出一整天，你会",
+	options:
+	[
+	{
+		title:" 计划你要做什么和在什么时候做，",
+		score:"J"
+	},
+	{
+		title:"说去就去",
+		score:"P"
+	}
+	]		
+},
+{  num:2,
+	title:"你认为自己是一个",
+	options:
+	[
+	{
+		title:" 较为随兴所至的人，",
+		score:"P"
+	},
+	{
+		title:"较为有条理的人",
+		score:"J"
+	}
+	]		
+},
+{
+	num:3,
+	title:"假如你是一位老师，你会选教",
+	options:
+	[
+	{
+		title:"以事实为主的课程",
+		score:"S"
+    },
+    {
+		title:"设计理论的课程",
+		score:"N"
+    }
+    ]
+},
+{
+	num:4,
+	title:"你通常",
+	options:
+	[
+	{
+		title:"与人容易混熟",
+		score:"E"
+    },
+    {
+		title:"比较沉静或矜持",
+		score:"I"
+    }
+    ]
+},
+{
+	num:5,
+	title:"一般来说，你和哪些人比较合得来？",
+	options:
+	[
+	{
+		title:"富于想象力的人",
+		score:"N"
+	},
+	{
+		title:"现实的人",
+		score:"S"
+	}
+	]
+},
+{
+	num:6,
+	title:"你是否经常让",
+	options:
+	[
+	{
+		title:"你的情感支配你的理智",
+		score:"F"
+	},{
+		title:"你的理智主宰你的情感",
+		score:"T"
+	}
+	]
+},
+{ 
+	num:7,
+    title:"处理许多事情上，你会喜欢",
+    options:
+    [
+    {
+    	title:"凭兴所至行事",score:"P"
+    },
+    {
+    	title:"按照计划行事",score:"J"
+     }
+     ]
+},
+{
+	num:8,
+    title:"你是否",options:
+    [
+    {
+    	title:"容易让人理解，或是",score:"E"
+    },
+    {
+    	title:"难于让人了解",score:"I"
+    	}
+     ]
+},
+{
+	num:9,
+	title:"按照程序表做事，",
+	options:
+	[
+	{
+		title:"合你心意",
+		score:"J"
+	},
+	{
+		title:"令你感到束缚",
+		score:"P"
+	}
+	]
+},
+{
+	num:10,
+	title:"当你有一份特别的任务,你会喜欢",
+	options:
+	[
+	{
+		title:"开始前小心组织计划",
+		score:"J"
+	},
+	{
+		title:"边做边找须做什么",
+		score:"P"
+	}
+	]
+},
+{
+	num:11,
+    title:"在大多数情况下，你会选择 ,",
+    options:
+    [
+    {
+	title:"顺其自然",
+	score: "P"
+	},
+    {title:"按程序表做事",
+    score:"J " 
+    }
+    ]
+},
+{
+	num:12,
+    title:"大多数人会说你是一个,",
+    options:[
+    {
+	title:"重视自我隐私的人",
+	score: "I"
+	},
+    {title:"非常坦率开放的人",
+    score:"E" 
+    }
+    ]
+},
+{
+    num:13,
+    title:"你宁愿被人认为是一个 ",
+    options:
+    [
+    {
+    title:"实事求是的人",
+    score:"S"
+    },
+    {
+    title:"机灵的人",
+    score:"N"
+    }
+    ]
+},
+{
+	num:14,
+    title:"在一大群人当中，通常是",
+    options:
+    [
+    {
+    title:"你介绍大家认识",
+    score:"E"
+    },
+    {title:"别人介绍你 ",
+    score:"I"
+    }
+    ]
+},
+{
+	num:15,
+    title:"你会跟哪些人做朋友？",
+    options:
+    [
+    {
+    title:"常提出新主意的",
+    score:"S"
+    },
+    {title:"脚踏实地的 ",
+    score:"N"
+    }
+    ]
+},
+{
+	num:16,
+    title:"你倾向",
+    options:
+    [
+    {
+    title:"重视感情多于逻辑",
+    score:"T"
+    },
+    {title:"重视逻辑多于感情 ",
+    score:"F"
+    }
+    ]
+},
+{
+	num:17,
+	title:"你比较喜欢",
+	options:
+	[ 
+	{
+	title :"坐观事情发展才作计划",
+	score :"P"
+	}, 
+	{
+	title :"很早就作计划",
+	score :"J"
+	} 
+	]
+},
+{
+	num:18,
+	title:"你喜欢花很多的时间",
+	options:
+	[
+	{
+	title:"一个人独处",
+	score:"I"
+	},
+	{
+	title:"和别人在一起",
+	score:"E"
+	}
+	]
+},
+{
+  num:19,
+	title:"与很多人一起会",
+	options:
+	[
+	{ 
+	title:"令你活力培增",
+	score:"E"
+	},
+	{
+	title:"常常令你心力憔悴",
+	score:"I"
+	}
+    ]
+},
+{
+	num:20,
+	title:"你比较喜欢",
+	options:
+	[
+	{ 
+	title:"很早便把约会、社交聚集等事情安排妥当",
+	score:"J"
+	},
+	{
+	title:"无拘无束，看当时有什么好玩就做什么 ",
+	score:"P"
+	}
+    ]
+},{
+		num: 21,
+		title: "计划一个旅程时,你较喜欢",
+		options: [{
+			title: "大部分的时间都是跟当天的感觉行事",
+			score: "P"
+		}, {
+			title: "事先知道大部分的日子会做什么",
+			score: "J"
+		}]
+	}, {
+		num: 22,
+		title: "在社交聚会中,你",
+		options: [{
+			title: "有时感到郁闷",
+			score: "I"
+		}, {
+			title: "常常乐在其中",
+			score: "E"
+		}]
+	}, {
+		num: 23,
+		title: "你通常",
+		options: [{
+			title: "和别人容易混熟",
+			score: "E"
+		}, {
+			title: "趋向自处一隅",
+			score: "I"
+		}]
+	}, {
+		num: 24,
+		title: "哪些人会更吸引你？",
+		options: [{
+			title: "一个思想敏捷及非常聪颖的人",
+			score: "N"
+		}, {
+			title: "实事求是，具丰富常识的人",
+			score: "S"
+		}]
+	},
+	{
+		num: 25,
+		title: "在日常工作中，你会",
+		options: [{
+			title: "颇为喜欢处理迫使你分秒必争的突发",
+			score: "P"
+		}, {
+			title: "通常预先计划，以免要在压力下工作",
+			score: "J"
+		}]
+	}, {
+		num: 26,
+		title: "你认为别人一般",
+		options: [{
+			title: "要花很长时间才认识你",
+			score: "I"
+		}, {
+			title: "用很短的时间便认识你 ",
+			score: "E"
+		}]
+	}, {
+		num: 27,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "注重隐私 ",
+			score: "I"
+		}, {
+			title: "坦率开放",
+			score: "E"
+		}]
+	}, {
+		num: 28,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "预先安排的 ",
+			score: "J"
+		}, {
+			title: "无计划的",
+			score: "P"
+		}]
+	}, {
+		num: 29,
+		title: "在下列每一对词语中，哪一个词语更合你心意",
+		options: [{
+			title: "抽象",
+			score: "N"
+		}, {
+			title: "具体",
+			score: "S"
+		}]
+	}, {
+		num: 30,
+		title: "在下列每一对词语中，哪一个词语更合你心意",
+		options: [{
+			title: "温柔",
+			score: "F"
+		}, {
+			title: "坚定",
+			score: "T"
+		}]
+	}, {
+		num: 31,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "思考 ",
+			score: "T"
+		}, {
+			title: "感受",
+			score: "F"
+		}]
+	}, {
+		num: 32,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "事实",
+			score: "S"
+		}, {
+			title: "意念",
+			score: "N"
+		}]
+	}, {
+		num: 33,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "冲动",
+			score: "P"
+		}, {
+			title: "决定",
+			score: "J"
+		}]
+	}, {
+		num: 34,
+		title: "在下列每一对词语中，哪一个词语更合你心意",
+		options: [{
+			title: "热衷 ",
+			score: "E"
+		}, {
+			title: "文静 ",
+			score: "I"
+		}]
+	},
+	{
+		num: 35,
+		title: "在下列每一对词语中，哪一个词语更合你心意?",
+		options: [{
+			title: "文静",
+			score: "I"
+		}, {
+			title: "外向",
+			score: "E"
+		}]
+	}, {
+		num: 36,
+		title: "在下列每一对词语中,哪一个词语更合你心意?",
+		options: [{
+			title: "有系统",
+			score: "J"
+		}, {
+			title: "随意",
+			score: "P"
+		}]
+	},
+	{
+		num: 37,
+		title: "在下列每一对词语中，哪一个词语更合你心意",
+		options: [{
+			title: "理论",
+			score: "N"
+		}, {
+			title: "肯定 ",
+			score: "S"
+		}]
+	},
+	{
+		num: 38,
+		title: "在下列每一对词语中，哪一个词语更合你心意",
+		options: [{
+			title: "敏感",
+			score: "F"
+		}, {
+			title: " 公正 ",
+			score: "T"
+		}]
+	},
+	{
+		num: 39,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+			title: "令人信服",
+			score: "T"
+		}, {
+			title: "感人的 ",
+			score: "F"
+		}]
+	},
+	{
+		num: 40,
+		title: "在下列每一对词语中，哪一个词语更合你心意？",
+		options: [{
+				title: "声明 ",
+				score: "S"
+			}, {
+				title: "概念",
+				score: "N"
+			}
+		]},{  
+	num : 41 ,
+	title :"在下列每一对词语中，哪一个词语更合你心意？",
+	options : [{
+		title : "不受约束",
+		score : "P"
+	},{
+		title : "预先安排",
+		score : "J"
+	}]
+},{
+	num : 42 ,
+	title : "在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "矜持",
+		score : "I"
+	},{
+		title : "健谈",
+		score : "E"
+	}]
+},{
+     num: 43 ,
+     title:"在下列每一对词语中，哪一个词语更合你心意？",
+     options:[{
+     title:"有条不紊",
+     score:"J"
+     },{
+     title:"不拘小节",
+     score:"P"
+    }]
+},{	
+	num: 44 ,
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options :[{
+		title:"意念",  
+		score:"N"
+	 },{
+		 title:"实况",	  
+		 score:"S"
+	 }]
+},{
+	num: 45 ,
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options:[{		 
+		title:"同情怜悯",	
+		score:"F"
+	 },{
+		 title:"远见",	  
+		 score:"T"
+	 }]
+},{ 
+	num:46, 
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options :[{
+		title:"利益", 
+		score:"T"
+	 },{
+		 title:"祝福",  
+		 score:"F"
+	 }]
+},{
+	num : 47,
+	title : "二、在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "A 务实的",
+		score : "S"
+	},{
+		title : "B 理论的",
+		score : "N"
+	}]
+},{
+	num : 48,
+	title : "二、在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "A 朋友不多",
+		score : "I"
+	}, {
+		title : "B 朋友众多",
+		score : "E"
+	}]
+}, {
+	num:49,
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options:[{  
+		title:"有系统", 
+		score:"J"
+	},{
+		title:"即兴",
+		score:"P"
+}]
+},{
+	num:50,
+
+	title:"在下列每一对词语中，哪一个词语更合你心意？",	
+	options:[{ 
+		title:"富想象的",  
+		score:"N"
+	},{ 
+		title:"以事论事", 
+		score:"S"
+	}]
+},{
+	num : 51,
+	title :"在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : " 亲切的 ",
+		score : "F"
+	}, {
+		title : " 客观的",
+		score : "T"
+	} ]
+}, {
+	num : 52,
+	title :"在下列每一对词语中，哪一个词语更合你心意？",
+	options : [{
+		title : "客观的",
+		score : "T"
+	}, {
+		title : "热情的",
+		score : "F"
+	} ]
+},{
+	num : 53,
+	title :"在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "建造 ",
+		score : "S"		
+	}, {
+		title : "发明",
+		score : "N"
+	}]
+},{
+	num : 54,
+	title : "在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "文静",
+		score : "I"
+	}, {
+		title : "爱合群",
+		score : "E"
+	}]
+},{
+	num: 55 ,
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options:[{
+           title:"理论",
+           score:"N"
+       },{
+           title:"事实",
+           score:"S"
+
+        }]
+},{
+	num: 56 ,
+	title:"在下列每一对词语中，哪一个词语更合你心意？",
+	options:[{
+           title:"富同情",
+           score:"F"
+       },{
+             title:"和逻辑",
+           score:"T"
+
+        }]
+},{
+	num : 57 ,
+	title : "在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "具分析力 ",
+		score : "S"
+	},{
+		title : "多愁善感",
+		score : "N"
+	}]
+},{
+	num : 58 ,
+	title : "在下列每一对词语中，哪一个词语更合你心意？",
+	options : [ {
+		title : "合情合理 ",
+		score : "S"
+	}, {
+		title : "令人着迷",
+		score : "N"
+	} ]
+},{
+	num : 59 ,
+	title : "当你要在一个星期内完成一个大项目，你在开始的时候会",
+	options : [ {
+		title : "把要做的不同工作依次列出",
+		score : "J"
+	}, {
+		title : "马上动工",
+		score : "P"
+	} ]
+},{
+	num : 60 ,
+	title : "在社交场合中，你经常会感到",
+	options : [{
+		title : "与某些人很难打开话匣儿和保持对话",
+		score : "I"
+	},{
+		title : "与多数人都能从容地长谈",
+		score : "E"
+	}]
+}, {
+	num : 61,
+	title : "要做许多人也做的事，你比较喜欢",
+	options : [ {
+		title : "按照一般认可的方法去做",
+		score : "S"
+	},{
+		title : "构造一个自己的想法",
+		score : "N"
+	} ]
+}, {
+	num : 62,
+	title : "你刚认识的朋友能否说出你的兴趣？",
+	options : [ {
+		title : "马上可以",
+		score : "E"
+	}, {
+		title : "要待他们真正了解你之后才可以",
+		score : "I"
+	} ]
+}, {
+	num : 63,
+	title : "你通常较喜欢的科目是",
+	options : [ {
+		title : "讲授概念和原则的",
+		score : "N"
+	}, {
+		title : "讲授事实和数据的",
+		score : "S"
+	} ]
+}, {
+	num : 64,
+	title : "哪个是较高的赞誉，或称许为？",
+	options : [ {
+		title : "一贯感性的人",
+		score : "F"
+	}, {
+		title : "一贯理性的人",
+		score : "T"
+	} ]
+}, {
+	num : 65,
+	title : "你认为按照程序表做事",
+	options : [ {
+		title : "有时是需要的，但一般来说你不大喜欢这样做，或是",
+		score : "P"
+	}, {
+		title : "大多数情况下是有帮助而且是你喜欢做的",
+		score : "J"
+	} ]
+}, {
+	num : 66,
+	title : "和一群人在一起，你通常会选",
+	options : [ {
+		title : "跟你很熟悉的个别人谈话",
+		score : "I"
+	}, {
+		title : "参与大伙的谈话",
+		score : "E"
+	} ]
+}, {
+	num : 67,
+	title : "在社交聚会上，你会",
+	options : [ {
+		title : "是说话很多的一个",
+		score : "E"
+	}, {
+		title : "让别人多说话",
+		score : "I"
+	} ]
+}, {
+	num : 68,
+	title : "把周末期间要完成的事列成清单，这个主意会",
+	options : [ {
+		title : "合你意",
+		score : "J"
+	}, {
+		title : "使你提不起劲",
+		score : "P"
+	} ]
+}, {
+	num : 69,
+	title : "哪个是较高的赞誉，或称许为",
+	options : [ {
+		title : "能干的，",
+		score : "T"
+	}, {
+		title : "富有同情心",
+		score : "F"
+	} ]
+}, {
+	num : 70,
+	title : "你通常喜欢",
+	options : [ {
+		title : "事先安排你的社交约会，",
+		score : "J"
+	}, {
+		title : "随兴之所至做事",
+		score : "P"
+	} ]
+}, {
+	num : 71,
+	title : "总的说来，要做一个大型作业时，你会选",
+	options : [ {
+		title : "边做边想该做什么",
+		score : "P"
+	}, {
+		title : "首先把工作按步细分",
+		score : "J"
+	} ]
+}, {
+	num : 72,
+	title : "你能否滔滔不绝地与人聊天",
+	options : [ {
+		title : "只限于跟你有共同兴趣的人",
+		score : "E"
+	}, {
+		title : "几乎跟任何人都可以",
+		score : "I"
+	} ]
+}, {
+	num : 73,
+	title : "你会",
+	options : [ {
+		title : "跟随一些证明有效的方法，或是",
+		score : "S"
+	}, {
+		title : "分析还有什么毛病，及针对尚未解决的难题",
+		score : "N"
+	} ]
+}
+
+, {
+	num : 74,
+	title : "为乐趣而阅读时,你会",
+	options : [ {
+		title : "喜欢奇特或创新的表达方式",
+		score : "N"
+
+	}, {
+		title : "喜欢作者直话直说",
+		score : "S"
+	} ]
+}, {
+	num : 75,
+	title : "你宁愿替哪一类上司（或者老师）工作？",
+	options : [ {
+		title : "天性淳良，但常常前后不一的",
+		score : "T"
+	}, {
+		title : "言词尖锐但永远合乎逻辑的",
+		score : "F"
+	} ]
+
+}, {
+	num : 76,
+	title : "你做事多数是",
+	options : [ {
+		title : "按当天心情去做",
+		score : "P"
+	}, {
+		title : "照拟好的程序表去做",
+		score : "J"
+	} ]
+
+}, {
+	num : 77,
+	title : "你是否",
+	options : [ {
+		title : "可以和任何人按需求从容地交谈，或是",
+		score : "E"
+	}, {
+		title : "只是对某些人或在某种情况下才可以畅所欲言",
+		score : "I"
+	} ]
+}, {
+
+	num : 78,
+	title : "要作决定时，你认为比较重要的是",
+	options : [ {
+		title : "据事实衡量，",
+		score : "T"
+	}, {
+		title : "考虑他人的感受和意见",
+		score : "F"
+	} ]
+}, {
+	num : 79,
+	title : "在下列每一对词语中，哪一个词语更合你心意?",
+	options : [ {
+		title : "想象的",
+		score : "N"
+	}, {
+		title : "真实的",
+		score : "S"
+	} ]
+}, {
+	num : 80,
+	title : "在下列每一对词语中哪一个词语更合你心意?",
+	options : [ {
+		title : "仁慈慷慨的",
+		score : "F"
+	}, {
+		title : "意志坚定的",
+		score : "T"
+	} ]
+} ,
+ {num:81,
+  title: "在下列每一对词语中，哪一个词语更合你心意？",
+  options:[{title:"公正的",score:"T"},{title:"有关怀心",score:"J"}]
+  },
+
+ {num:82,
+ title:"在下列每一对词语中，哪一个词语更合你心意？",
+ options:[{title:"制作",score:"S"},{title:"设计",score:"N"}]
+ },
+
+ {num:83,
+ title:"在下列每一对词语中，哪一个词语更合你心意？ ",
+ options:[{title:" 可能性",score:"N"},{title:" 必然性",score:"S"}]
+ },
+
+ {num:84,
+  title:"在下列每一对词语中，哪一个词语更合你心意？",
+ options:[{title:"温柔",score:"F"},{title:"力量",score:"T"}]
+ },
+
+ {num:85,
+ title:"在下列每一对词语中，哪一个词语更合你心意？",
+ options:[{title:"实际",score:"T"},{title:"多愁善感 ",score:"F"}]
+ },
+
+ {num:86,
+  title:"在下列每一对词语中，哪一个词语更合你心意？",
+  options:[{title:"制造",score:"S"},{title:"创造",score:"N"}]
+ },
+
+ {num:87,
+  title:"在下列每一对词语中，哪一个词语更合你心意",
+  options:[{title:"新颖的",score:"N"},{title:"已知的",score:"S"}]
+  },
+
+ {num:88,
+  title:"在下列每一对词语中，哪一个词语更合你心意？",
+  options:[{title:"同情",score:"F"},{title:"分析",score:"T"}]
+ },
+
+ {num:89,
+  title:"在下列每一对词语中，哪一个词语更合你心意？",
+  options:[{title:"坚持己见",score:"T"},{title:"温柔有爱心",score:"F"}]
+  },
+
+ {num:90,
+ title:"在下列每一对词语中，哪一个词语更合你心意？",
+ options:[{title:"想象的",score:"N"},{title:"真实的",score:"S"}]
+ },
+
+ {num:91,
+  title:"在下列每一对词语中，哪一个词语更合你心意",
+  options:[{title:"全心投入",score:"F"},{title:"有决心的",score:"T"}]
+  },
+ 
+ {num:92,
+  title:"在下列每一对词语中，哪一个词语更合你心意？",
+  options:[{title:"能干",score:"T"},{title:"仁慈",score:"F"}] 
+  },
+
+ {num:93,
+  title:"在下列每一对词语中，哪一个词语更合你心意",
+  options:[{title:"实际",score:"S"},{title:"创新",score:"N"}]
+ }
+  
+]
+
